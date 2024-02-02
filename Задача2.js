@@ -3,7 +3,7 @@ const sumUniqueNumbers = (obj) => {
     let result = 0;
     for (const num of newObj) {
         result += num
-    }
+    };
     return result;
 };
 
